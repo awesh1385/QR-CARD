@@ -1,0 +1,26 @@
+body{
+    background-color: #ECF2FF;
+}
+.card{
+    background-color: white;
+    margin: 50px auto 20px auto;
+    height: 500px;
+    width: 25%;
+    padding-right: 10px;
+    border-radius: 15px;
+    padding-bottom: 35px;
+}
+.qr{
+    width: 95%;
+    margin: 15px 15px auto 15px;
+   border-radius: 20px;
+}
+h3{
+    font-family: 'Outfit', sans-serif; 
+    margin: auto 0 auto 25px;
+}
+.text{
+    font-family: 'Outfit', sans-serif;
+    margin: auto 32px auto 56px;
+    color:grey;
+}
